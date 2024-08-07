@@ -1,6 +1,6 @@
 # Wordle Game Clone
 
-This project is a clone of the popular word puzzle game, Wordle. The goal of the game is to guess a five-letter word within six attempts, receiving feedback for each guess to guide the player towards the correct word. I worked on this when I first started coding in 2022 as I wanted to test out my skills at the time.
+This project is a clone of the popular word puzzle game, Wordle. The goal of the game is to guess a five-letter word within six attempts, receiving feedback for each guess to guide the player towards the correct word. I worked on this when I first started coding in 2022 as I wanted to test out my skills at the time. For the purpose of this game, the secret word is 'codes'(excluding the apostrophes).
 
 ## Features
 
