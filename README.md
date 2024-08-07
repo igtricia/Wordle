@@ -9,7 +9,7 @@ This project is a clone of the popular word puzzle game, Wordle. The goal of the
 - **Feedback System:** Provides color-coded feedback for each guess:
   - **Green:** Correct letter in the correct position.
   - **Yellow:** Correct letter in the wrong position.
-  - **Gray:** Incorrect letter.
+  - **White:** Incorrect letter.
 - **Win/Loss Conditions:** Displays appropriate messages for winning or losing the game.
 
 ## Technologies Used
